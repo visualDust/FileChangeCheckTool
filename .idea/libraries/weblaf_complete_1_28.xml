@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="weblaf_complete_1.28">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource/weblaf_complete_1.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/weblaf_complete_1.28.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
