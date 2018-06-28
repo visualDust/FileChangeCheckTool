@@ -5,8 +5,36 @@
       <artifact name="NewFileCheckTool:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" line="152" />
+    <bookmark url="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" line="154" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc1c96e1-2c80-49a2-9b81-3d213db0041b" name="Default" comment="" />
+    <list default="true" id="bc1c96e1-2c80-49a2-9b81-3d213db0041b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NewFileCheckTool_jar/NewFileCheckTool.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NewFileCheckTool_jar/NewFileCheckTool.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/DocumentChangedListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/DocumentChangedListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/EventOutPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/EventOutPut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1StringChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1StringChangeListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$CheckThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$CheckThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MessageWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MessageWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/NFCTLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/NFCTLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/TempCreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/TempCreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/UITheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/UITheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,10 +48,46 @@
       <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+            <state relative-caret-position="156">
+              <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFrame.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file leaf-file-name="NFCTLauncher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UITheme.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <folding>
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,18 +102,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TempCreater.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/GUI/MessageWindow.java" />
-        <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/GUI.form" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/GUI.java" />
-        <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MessageWindow.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/DocumentChangedListener.java" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" />
       </list>
@@ -66,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,13 +189,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ProgramSubjects/Project/GitUP/Translater/Translator_JAVA" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="193" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -239,17 +307,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1008" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="728" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32847896" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -266,7 +336,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -275,18 +344,51 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        <state relative-caret-position="1545">
+          <caret line="103" column="49" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -305,24 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MessageWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -335,15 +419,45 @@
         <state relative-caret-position="125">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/net/URLClassLoader.java" />
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        <state relative-caret-position="156">
+          <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -417,7 +531,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,7 +1,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 06月 28日 星期四 01:05:22 CST
+2018年 06月 28日 星期四 18:55:19 CST
 ---
 > 是谁COMMIT
 
@@ -13,25 +13,41 @@ VisualDust@outlook.com
 ---
 > 当前分支
 
+* master
 
 ---
 > COMMIT的细节
 
 位于分支 master
+尚未暂存以备提交的变更：
+  （使用 "git add <文件>..." 更新要提交的内容）
+  （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
-尚无提交
+	修改：     .idea/misc.xml
+	修改：     .idea/workspace.xml
+	修改：     README.md
+	修改：     out/artifacts/NewFileCheckTool_jar/NewFileCheckTool.jar
+	修改：     out/production/NewFileCheckTool/MainFrame$1.class
+	修改：     out/production/NewFileCheckTool/MainFrame$1StringChangeListener.class
+	修改：     out/production/NewFileCheckTool/MainFrame$2.class
+	修改：     out/production/NewFileCheckTool/MainFrame$3.class
+	修改：     out/production/NewFileCheckTool/MainFrame$4.class
+	修改：     out/production/NewFileCheckTool/MainFrame$5.class
+	修改：     out/production/NewFileCheckTool/MainFrame$CheckThread.class
+	修改：     out/production/NewFileCheckTool/MainFrame.class
+	修改：     out/production/NewFileCheckTool/TestClass.class
+	修改：     out/production/NewFileCheckTool/UITheme.class
+	修改：     studio.visualdust/product.newfilechecktool/src/MainFrame.form
+	修改：     studio.visualdust/product.newfilechecktool/src/MainFrame.java
+	修改：     studio.visualdust/product.newfilechecktool/src/TestClass.java
+	修改：     studio.visualdust/product.newfilechecktool/src/UITheme.java
 
 未跟踪的文件:
   （使用 "git add <文件>..." 以包含要提交的内容）
 
-	.idea/
-	NewFileCheckTool.iml
-	README.md
-	commit.sh
-	out/
-	studio.visualdust/
+	.idea/vcs.xml
 
-提交为空，但是存在尚未跟踪的文件（使用 "git add" 建立跟踪）
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
 > 当前文件列表
 
