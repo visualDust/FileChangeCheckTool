@@ -11,36 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc1c96e1-2c80-49a2-9b81-3d213db0041b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FileChangeCheckTool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FileChangeCheckTool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileChangeCheckTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileChangeCheckTool.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/EventOutPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/EventOutPut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$CheckThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$CheckThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MessageWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MessageWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/NFCTLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/NFCTLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/UITheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/UITheme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/DocumentChangedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/EventOutPut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MainFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MessageWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/NFCTLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/weblaf_complete_1.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/TempCreater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/UITheme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/DocumentChangedListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/EventOutPut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$CheckThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$RefreshThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MessageWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/NFCTLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TempCreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/UITheme.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,39 +41,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="278">
+              <caret line="209" column="29" lean-forward="true" selection-start-line="209" selection-start-column="29" selection-end-line="209" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1421#1673#0" expanded="true" />
+                <element signature="e#1672#1673#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainFrame.form" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MainFrame.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file leaf-file-name="UITheme.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UITheme.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -92,8 +58,8 @@
       <file leaf-file-name="NFCTLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -143,8 +109,10 @@
         <option value="$PROJECT_DIR$/src/UITheme.java" />
         <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/UITheme.java" />
         <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/MainFrame.form" />
-        <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/MainFrame.java" />
         <option value="$PROJECT_DIR$/src/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame.form" />
+        <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/NFCTLauncher.java" />
       </list>
     </option>
   </component>
@@ -159,8 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,12 +159,20 @@
             </path>
             <path>
               <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="product.filechangechecktool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -211,19 +185,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource" />
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource" />
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.FileChangeCheckTool.jar">
+  <component name="RunManager" selected="Application.NFCTLauncher">
     <configuration name="NFCTLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NFCTLauncher" />
       <module name="FileChangeCheckTool" />
@@ -334,12 +308,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.32686085" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32686085" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32686085" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40859374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -365,10 +339,47 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -428,6 +439,8 @@
           <caret line="86" column="50" lean-forward="true" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -480,6 +493,8 @@
           <caret line="56" column="65" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -513,6 +528,8 @@
         <state>
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -547,6 +564,8 @@
           <caret line="103" column="49" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -573,6 +592,8 @@
         <state>
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -583,6 +604,8 @@
           <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -629,8 +652,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/OriginFiles.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="jar://$USER_HOME$/Application/jdk-10/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+          <folding>
+            <element signature="e#6742#6743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UITheme.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -641,25 +671,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame.form">
-      <provider selected="true" editor-type-id="ui-designer" />
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="209" column="29" lean-forward="true" selection-start-line="209" selection-start-column="29" selection-end-line="209" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1421#1673#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
