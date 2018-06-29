@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/FileChangeCheckTool</output-path>
     <root id="archive" name="FileChangeCheckTool.jar">
       <element id="module-output" name="FileChangeCheckTool" />
+      <element id="library" level="project" name="weblaf_complete_1.28" />
     </root>
   </artifact>
 </component>

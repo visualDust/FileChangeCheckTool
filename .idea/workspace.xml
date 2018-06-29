@@ -6,44 +6,41 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java" line="180" />
+    <bookmark url="file://$PROJECT_DIR$/src/MainFrame.java" line="228" />
+    <bookmark url="file://$PROJECT_DIR$/src/MainFrame.java" line="185" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc1c96e1-2c80-49a2-9b81-3d213db0041b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/NewFileCheckTool_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/weblaf_complete_1_28.xml" afterPath="$PROJECT_DIR$/.idea/libraries/weblaf_complete_1_28.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/NewFileCheckTool.iml" afterPath="$PROJECT_DIR$/FileChangeCheckTool.iml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NewFileCheckTool_jar/NewFileCheckTool.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/DocumentChangedListener.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/DocumentChangedListener.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/EventOutPut.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/EventOutPut.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1StringChangeListener.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$1StringChangeListener.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$2.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$3.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$4.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$5.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$CheckThread.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame$CheckThread.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MainFrame.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/MessageWindow.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/MessageWindow.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/NFCTLauncher.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/NFCTLauncher.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/TempCreater.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/TempCreater.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/TestClass.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/TestClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/UITheme.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/UITheme.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewFileCheckTool/com/intellij/uiDesigner/core/LayoutState.class" afterPath="$PROJECT_DIR$/out/production/NewFileCheckTool/com/intellij/uiDesigner/core/LayoutState.class" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource/weblaf_complete_1.28.jar" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/weblaf_complete_1.28.jar" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/DocumentChangedListener.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/DocumentChangedListener.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/EventOutPut.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/EventOutPut.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.form" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MessageWindow.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MessageWindow.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/NFCTLauncher.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/NFCTLauncher.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TempCreater.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TempCreater.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/TestClass.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TestClass.java" />
-      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" afterPath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FileChangeCheckTool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FileChangeCheckTool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileChangeCheckTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileChangeCheckTool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/EventOutPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/EventOutPut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$CheckThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame$CheckThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MessageWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/MessageWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/NFCTLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/NFCTLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/UITheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/UITheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/DocumentChangedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/EventOutPut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MainFrame.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/MessageWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/NFCTLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/weblaf_complete_1.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/TempCreater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/UITheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,53 +52,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="56" column="65" lean-forward="false" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
-              <folding />
+            <state relative-caret-position="780">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainFrame.form" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.form">
-          <provider selected="true" editor-type-id="ui-designer">
-            <state />
+      <file leaf-file-name="MainFrame.form" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file leaf-file-name="UITheme.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TestClass.java">
+      <file leaf-file-name="MessageWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="NFCTLauncher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/NFCTLauncher.java">
+        <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UITheme.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -115,13 +107,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mer</find>
+      <find>Files&quot;</find>
+      <find>//</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,112 +134,96 @@
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.form" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/UITheme.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/MainFrame.java" />
-        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java" />
-        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.form" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TempCreater.java" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TestClass.java" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MessageWindow.java" />
         <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.form" />
+        <option value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java" />
+        <option value="$PROJECT_DIR$/src/UITheme.java" />
+        <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/UITheme.java" />
+        <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/MainFrame.form" />
+        <option value="$PROJECT_DIR$/src/studio.visualdust/product.filechangechecktool/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="403" />
-    <option name="y" value="319" />
-    <option name="width" value="940" />
-    <option name="height" value="531" />
+    <option name="x" value="36" />
+    <option name="y" value="27" />
+    <option name="width" value="804" />
+    <option name="height" value="544" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
               <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
-              <item name="studio.visualdust" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
-              <item name="studio.visualdust" type="462c0819:PsiDirectoryNode" />
-              <item name="product.filechangechecktool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
-              <item name="studio.visualdust" type="462c0819:PsiDirectoryNode" />
-              <item name="product.filechangechecktool" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewFileCheckTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewFileCheckTool" type="462c0819:PsiDirectoryNode" />
-              <item name="studio.visualdust" type="462c0819:PsiDirectoryNode" />
-              <item name="product.filechangechecktool" type="462c0819:PsiDirectoryNode" />
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileChangeCheckTool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileChangeCheckTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="193" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/weblaf_complete_1.28.jar!/" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="279" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/Resource" />
-      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool" />
-      <recent name="$PROJECT_DIR$/studio.visualdust" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource" />
+      <recent name="$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,36 +240,14 @@
   </component>
   <component name="RunManager" selected="JAR Application.FileChangeCheckTool.jar">
     <configuration name="NFCTLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="NFCTLauncher" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="FileChangeCheckTool" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -298,39 +257,26 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration name="FileChangeCheckTool.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar" />
-      <envs />
-    </configuration>
-    <configuration name="NewFileCheckTool.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/NewFileCheckTool_jar/NewFileCheckTool.jar" />
-      <envs />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
+      <module name="NewFileCheckTool" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="NewFileCheckTool" />
-      <envs />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -343,33 +289,25 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JAR Application.NewFileCheckTool.jar" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NFCTLauncher" />
-      <item index="2" class="java.lang.String" itemvalue="JAR Application.FileChangeCheckTool.jar" />
+    <list>
+      <item itemvalue="Application.NFCTLauncher" />
+      <item itemvalue="JAR Application.FileChangeCheckTool.jar" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JAR Application.FileChangeCheckTool.jar" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NFCTLauncher" />
-        <item index="2" class="java.lang.String" itemvalue="JAR Application.NewFileCheckTool.jar" />
+      <list>
+        <item itemvalue="JAR Application.FileChangeCheckTool.jar" />
+        <item itemvalue="Application.NFCTLauncher" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -385,198 +323,343 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32686085" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.32686085" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32686085" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="345">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/TempCreater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DocumentChangedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="50" lean-forward="true" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DocumentChangedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="65" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/NFCTLauncher.java">
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java">
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1545">
-          <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/NFCTLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <caret line="103" column="49" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust/product.newfilechecktool/src/GUI.java" />
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/EventOutPut.java">
+    <entry file="file://$PROJECT_DIR$/src/EventOutPut.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TempCreater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MessageWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/DocumentChangedListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/ClassLoader.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/net/URLClassLoader.java" />
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/UITheme.java">
+    <entry file="file://$PROJECT_DIR$/src/DocumentChangedListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/NFCTLauncher.java">
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/src/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/TempCreater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="56" column="65" lean-forward="false" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessageWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio.visualdust/product.filechangechecktool/Resource/OriginFiles.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UITheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NFCTLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -597,7 +680,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -620,7 +703,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
