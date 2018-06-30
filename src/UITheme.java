@@ -11,11 +11,7 @@ public class UITheme {
     public static Font tagFont;
 
     public UITheme() {
-        try {
-            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+
         //restdefaultfont();
     }
 

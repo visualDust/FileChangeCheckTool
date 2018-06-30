@@ -3,10 +3,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.event.DocumentEvent;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
+import java.awt.event.*;
 import java.io.File;
 import java.util.Vector;
 
@@ -28,16 +25,21 @@ public class MainFrame extends JFrame {
     private JLabel nowFileCountLabel;
     private JCheckBox checkSubDictionariesCheckBox;
     private JButton refreshNowButton;
+    private JProgressBar workingProcessBar;
+    private JLabel workingLabel;
+    private JPanel workingPanel;
 
-    Dimension frameSize = new Dimension(500, 500);
-    double spaceDis = 0.1;
+    private Dimension frameSize = new Dimension(500, 500);
+    private double spaceDis = 0.1;
 
-    File path;
-    int delay;
-    File[] oriFiles;
-    File[] nowFiles;
+    private File path;
+    private int delay;
+    private File[] oriFiles;
+    private File[] nowFiles;
+    private Vector<File> changedFiles = new Vector<>();
+    private Vector<String> fileChangeDetile = new Vector<>();
 
-    CheckThread checker = new CheckThread();
+    private CheckThread checker = new CheckThread();
 
     MainFrame() {
         UITheme myTheme = new UITheme();
@@ -65,6 +67,7 @@ public class MainFrame extends JFrame {
         clearButton.setText("UselessButton");
         refreshNowButton.setEnabled(false);
         mergeButton.setEnabled(false);
+        workingPanel.setVisible(false);
 
         checkSubDictionariesCheckBox.setEnabled(false);
 
@@ -90,7 +93,7 @@ public class MainFrame extends JFrame {
                 path = new File(pathTextFiled.getText(), "");
                 delay = Integer.valueOf(String.valueOf(delaySpinner.getValue()));
                 if (!path.isDirectory() || pathTextFiled.getText().equals("")) {
-                    MessageWindow.showMessageWindow(0, "The file path \""+path.getPath()+"\" doesn't exist");
+                    MessageWindow.showMessageWindow(0, "The file path \"" + path.getPath() + "\" doesn't exist");
                 } else if (delay <= 0 || delaySpinner.getValue().equals(null)) {
                     delaySpinner.setValue(1);
                     MessageWindow.showMessageWindow(0, "Check delay can only be 1 or bigger");
@@ -105,13 +108,13 @@ public class MainFrame extends JFrame {
 //                        }
 //                    } //TestCode
                     originalFileList.setListData(GetFileNameVector(oriFiles));
-                    originFileCountLabel.setText(String.valueOf(oriFiles.length)+" Files ");
+                    originFileCountLabel.setText(String.valueOf(oriFiles.length) + " Files ");
                     nowFileList.setListData(GetFileNameVector(oriFiles));
-                    nowFileCountLabel.setText(String.valueOf(oriFiles.length)+" Files ");
+                    nowFileCountLabel.setText(String.valueOf(oriFiles.length) + " Files ");
                     changedFileCountLabel.setText("0 Changes ");
                     okButton.setEnabled(false);
-                    spaceProgressBar.setMaximum((int) (path.getTotalSpace()*spaceDis));
-                    spaceProgressBar.setValue((int) ((path.getTotalSpace() - path.getUsableSpace())*spaceDis));
+                    spaceProgressBar.setMaximum((int) (path.getTotalSpace() * spaceDis));
+                    spaceProgressBar.setValue((int) ((path.getTotalSpace() - path.getUsableSpace()) * spaceDis));
                     UpdateSpaceProcessBar();
                     checker.start();
                     refreshNowButton.setEnabled(true);
@@ -134,7 +137,7 @@ public class MainFrame extends JFrame {
                     oriFiles = nowFiles.clone();
                     originalFileList.setListData(GetFileNameVector(oriFiles));
                     changedFileList.setListData(new Vector());
-                    originFileCountLabel.setText(String.valueOf(oriFiles.length)+" Files ");
+                    originFileCountLabel.setText(String.valueOf(oriFiles.length) + " Files ");
                     mergeButton.setEnabled(false);
                 }
             }
@@ -147,12 +150,47 @@ public class MainFrame extends JFrame {
             }
         });
 
+        changedFileList.addKeyListener(new KeyAdapter() {
+            @Override
+            public void keyTyped(KeyEvent e) {
+                if (e.getKeyChar() == 'd' || e.getKeyChar() == 'D')
+                    if (fileChangeDetile.elementAt(changedFileList.getSelectedIndex()).charAt(0) == 'N')
+                        (new FileDelThread()).start();
+            }
+        });
+
+        ////////////////////////INIT///////////////////////
         this.setMinimumSize(new Dimension(400, 300));
         this.setSize(frameSize);
         //this.setResizable(false);
         this.add(mainPanel);
         mainPanel.setBackground(new Color(255, 255, 255));
+    }
 
+
+    ////////////////////////////////Class type sssssssssss////////////////////////////////
+
+    class FileDelThread extends Thread {
+        @Override
+        public void run() {
+            workingPanel.setVisible(true);
+            workingLabel.setText("Deleting Files");
+            changedFileList.setEnabled(false);
+            workingProcessBar.setMaximum(changedFileList.getSelectedIndices().length);
+            for (int i = 0; i < changedFileList.getSelectedIndices().length; i++) {
+                try {
+                    if (changedFiles.elementAt(i).exists()&&(!changedFiles.elementAt(i).delete()))
+                        MessageWindow.showMessageWindow(0, "Some thing wrone when deleting the file .");
+
+                } catch (Exception e1) {
+                    e1.printStackTrace();
+                }
+                workingProcessBar.setValue(i);
+            }
+            workingPanel.setVisible(false);
+            changedFileList.setEnabled(true);
+            RefreshFileList();
+        }
     }
 
     class CheckThread extends Thread {
@@ -174,7 +212,7 @@ public class MainFrame extends JFrame {
 
     void UpdateSpaceProcessBar() {
         spaceProgressBar.setString((path.getTotalSpace() - path.getUsableSpace()) + " / " + path.getTotalSpace());
-        spaceProgressBar.setValue((int) ((path.getTotalSpace() - path.getUsableSpace())*spaceDis));
+        spaceProgressBar.setValue((int) ((path.getTotalSpace() - path.getUsableSpace()) * spaceDis));
     }
 
     void RefreshFileList() {
@@ -196,7 +234,8 @@ public class MainFrame extends JFrame {
         @Override
         public void run() {
             refreshNowButton.setEnabled(false);
-            Vector<String> changedFiles = new Vector<>();
+            changedFiles.removeAllElements();
+            fileChangeDetile.removeAllElements();
             for (int i = 0; i < nowFiles.length; i++) {
                 boolean checked = false;
                 for (int j = 0; j < oriFiles.length; j++) {
@@ -204,7 +243,8 @@ public class MainFrame extends JFrame {
                         checked = true;
                 }
                 if (checked) continue;
-                changedFiles.add("New File : " + nowFiles[i].getName());
+                changedFiles.add(nowFiles[i]);
+                fileChangeDetile.add("New File : " + nowFiles[i].getName());
                 mergeButton.setEnabled(true);
             }
             for (int i = 0; i < oriFiles.length; i++) {
@@ -215,13 +255,14 @@ public class MainFrame extends JFrame {
                     }
                 }
                 if (checked) continue;
-                changedFiles.add("Remove File : " + oriFiles[i].getName());
+                changedFiles.add(oriFiles[i]);
+                fileChangeDetile.add("Remove File : "+oriFiles[i].getName());
                 mergeButton.setEnabled(true);
             }
-            changedFileList.setListData(changedFiles);
-            changedFileCountLabel.setText(String.valueOf(changedFiles.toArray().length)+" Changes ");
+            changedFileList.setListData(fileChangeDetile);
+            changedFileCountLabel.setText(String.valueOf(changedFiles.toArray().length) + " Changes ");
             nowFileList.setListData(GetFileNameVector(path.listFiles()));
-            nowFileCountLabel.setText(String.valueOf(nowFiles.length)+" Files ");
+            nowFileCountLabel.setText(String.valueOf(nowFiles.length) + " Files ");
             UpdateSpaceProcessBar();
             refreshNowButton.setEnabled(true);
         }
