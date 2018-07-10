@@ -1,7 +1,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 06月 30日 星期六 18:27:50 CST
+2018年 07月 11日 星期三 00:15:56 CST
 ---
 > 是谁COMMIT
 
@@ -20,60 +20,29 @@ VisualDust@outlook.com
 
 位于分支 master
 尚未暂存以备提交的变更：
-  （使用 "git add/rm <文件>..." 更新要提交的内容）
+  （使用 "git add <文件>..." 更新要提交的内容）
   （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
-	修改：     .idea/misc.xml
 	修改：     .idea/workspace.xml
 	修改：     README.md
 	修改：     out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar
-	修改：     out/production/FileChangeCheckTool/META-INF/MANIFEST.MF
-	修改：     out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class
-	删除：     out/production/FileChangeCheckTool/studio.visualdust/product.filechangechecktool/test
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/DocumentChangedListener.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/EventOutPut.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$1.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$1StringChangeListener.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$2.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$3.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$4.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$5.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$6.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$CheckThread.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame$RefreshThread.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MainFrame.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/MessageWindow.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/NFCTLauncher.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/TempCreater.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/TestClass.class
-	删除：     out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/UITheme.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$1.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$2.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$3.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$4.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$5.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$6.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$7.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$CheckThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$FileDelThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$RefreshThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame.class
+	修改：     out/production/FileChangeCheckTool/TestClass.class
 	修改：     src/MainFrame.form
 	修改：     src/MainFrame.java
 	修改：     src/NFCTLauncher.java
-	修改：     src/UITheme.java
-
-未跟踪的文件:
-  （使用 "git add <文件>..." 以包含要提交的内容）
-
-	out/production/FileChangeCheckTool/DocumentChangedListener.class
-	out/production/FileChangeCheckTool/EventOutPut.class
-	out/production/FileChangeCheckTool/MainFrame$1.class
-	out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class
-	out/production/FileChangeCheckTool/MainFrame$2.class
-	out/production/FileChangeCheckTool/MainFrame$3.class
-	out/production/FileChangeCheckTool/MainFrame$4.class
-	out/production/FileChangeCheckTool/MainFrame$5.class
-	out/production/FileChangeCheckTool/MainFrame$6.class
-	out/production/FileChangeCheckTool/MainFrame$7.class
-	out/production/FileChangeCheckTool/MainFrame$CheckThread.class
-	out/production/FileChangeCheckTool/MainFrame$FileDelThread.class
-	out/production/FileChangeCheckTool/MainFrame$RefreshThread.class
-	out/production/FileChangeCheckTool/MainFrame.class
-	out/production/FileChangeCheckTool/MessageWindow.class
-	out/production/FileChangeCheckTool/NFCTLauncher.class
-	out/production/FileChangeCheckTool/TempCreater.class
-	out/production/FileChangeCheckTool/TestClass.class
-	out/production/FileChangeCheckTool/UITheme.class
+	修改：     src/TestClass.java
 
 修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
