@@ -1,7 +1,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 07月 11日 星期三 00:15:56 CST
+2018年 07月 12日 星期四 04:07:35 CST
 ---
 > 是谁COMMIT
 
@@ -13,6 +13,7 @@ VisualDust@outlook.com
 ---
 > 当前分支
 
+https://github.com/visualDust/FileChangeCheckTool.git
 * master
 
 ---
@@ -23,26 +24,7 @@ VisualDust@outlook.com
   （使用 "git add <文件>..." 更新要提交的内容）
   （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
-	修改：     .idea/workspace.xml
 	修改：     README.md
-	修改：     out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar
-	修改：     out/production/FileChangeCheckTool/MainFrame$1.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$2.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$3.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$4.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$5.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$6.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$7.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$CheckThread.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$FileDelThread.class
-	修改：     out/production/FileChangeCheckTool/MainFrame$RefreshThread.class
-	修改：     out/production/FileChangeCheckTool/MainFrame.class
-	修改：     out/production/FileChangeCheckTool/TestClass.class
-	修改：     src/MainFrame.form
-	修改：     src/MainFrame.java
-	修改：     src/NFCTLauncher.java
-	修改：     src/TestClass.java
 
 修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
