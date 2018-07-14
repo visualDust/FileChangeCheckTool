@@ -3,7 +3,10 @@ echo Adding files .
 echo Please wait...
 echo 
 
-echo \# 最近一次COMMIT > README.md
+echo > README.md
+cat RM >> README.md
+
+echo \# 最近一次COMMIT >> README.md
 echo >> README.md
 echo COMMIT的时间 >> README.md
 date >> README.md
