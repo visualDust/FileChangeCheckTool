@@ -1,4 +1,3 @@
-import sun.util.resources.LocaleData;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

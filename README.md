@@ -8,7 +8,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 07月 15日 星期日 00:33:46 CST
+2018年 07月 16日 星期一 11:14:00 CST
 ---
 > 是谁COMMIT
 
@@ -27,22 +27,57 @@ https://github.com/visualDust/FileChangeCheckTool.git
 > COMMIT的细节
 
 位于分支 master
-您的分支领先 'origin/master' 共 2 个提交。
-  （使用 "git push" 来发布您的本地提交）
+您的分支与上游分支 'public/master' 一致。
+
+要提交的变更：
+  （使用 "git reset HEAD <文件>..." 以取消暂存）
+
+	重命名：   src/EventOutPut.java -> src/EventRW.java
 
 尚未暂存以备提交的变更：
-  （使用 "git add <文件>..." 更新要提交的内容）
+  （使用 "git add/rm <文件>..." 更新要提交的内容）
   （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
+	修改：     .idea/workspace.xml
 	修改：     README.md
+	修改：     out/artifacts/FileChangeCheckTool/FileChangeCheckTool.jar
+	删除：     out/production/FileChangeCheckTool/EventOutPut.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$1.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$1StringChangeListener.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$2.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$3.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$4.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$5.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$6.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$7.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$CheckThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$FileDelThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame$RefreshThread.class
+	修改：     out/production/FileChangeCheckTool/MainFrame.class
+	修改：     out/production/FileChangeCheckTool/NFCTLauncher.class
+	修改：     out/production/FileChangeCheckTool/UITheme.class
+	修改：     out/production/FileChangeCheckTool/com/intellij/uiDesigner/core/LayoutState.class
+	修改：     src/EventRW.java
+	修改：     src/MainFrame.java
+	修改：     src/NFCTLauncher.java
 
-修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
+未跟踪的文件:
+  （使用 "git add <文件>..." 以包含要提交的内容）
+
+	2018-07-16GZTagerLog.markdown
+	out/production/FileChangeCheckTool/EventRW.class
+	out/production/FileChangeCheckTool/studio.visualdust/product.filechangechecktool/Resource/WindowIcon.png
+	out/production/FileChangeCheckTool/studio/
+	src/studio.visualdust/product.filechangechecktool/Resource/DataResource.java
+	src/studio.visualdust/product.filechangechecktool/Resource/WindowIcon.png
+
 ---
 > 当前文件列表
 
 ```
 .:
-commit.sh  FileChangeCheckTool.iml  LICENSE  out  README.md  RM  src
+2018-07-16GZTagerLog.markdown  FileChangeCheckTool.iml	out	   RM
+commit.sh		       LICENSE			README.md  src
 
 ./out:
 artifacts  production
@@ -57,17 +92,18 @@ FileChangeCheckTool.jar
 FileChangeCheckTool  NewFileCheckTool
 
 ./out/production/FileChangeCheckTool:
-com				       MainFrame$CheckThread.class
-DocumentChangedListener.class	       MainFrame.class
-EventOutPut.class		       MainFrame$FileDelThread.class
-MainFrame$1.class		       MainFrame$RefreshThread.class
-MainFrame$1StringChangeListener.class  MessageWindow.class
-MainFrame$2.class		       META-INF
-MainFrame$3.class		       NFCTLauncher.class
+com				       MainFrame.class
+DocumentChangedListener.class	       MainFrame$FileDelThread.class
+EventRW.class			       MainFrame$RefreshThread.class
+MainFrame$1.class		       MessageWindow.class
+MainFrame$1StringChangeListener.class  META-INF
+MainFrame$2.class		       NFCTLauncher.class
+MainFrame$3.class		       studio
 MainFrame$4.class		       studio.visualdust
 MainFrame$5.class		       TempCreater.class
 MainFrame$6.class		       TestClass.class
 MainFrame$7.class		       UITheme.class
+MainFrame$CheckThread.class
 
 ./out/production/FileChangeCheckTool/com:
 intellij
@@ -89,6 +125,21 @@ LayoutState.class
 ./out/production/FileChangeCheckTool/META-INF:
 MANIFEST.MF
 
+./out/production/FileChangeCheckTool/studio:
+visualdust
+
+./out/production/FileChangeCheckTool/studio/visualdust:
+product
+
+./out/production/FileChangeCheckTool/studio/visualdust/product:
+filechangechecktool
+
+./out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool:
+Resource
+
+./out/production/FileChangeCheckTool/studio/visualdust/product/filechangechecktool/Resource:
+DataResource.class
+
 ./out/production/FileChangeCheckTool/studio.visualdust:
 product.filechangechecktool
 
@@ -96,7 +147,8 @@ product.filechangechecktool
 Resource
 
 ./out/production/FileChangeCheckTool/studio.visualdust/product.filechangechecktool/Resource:
-ChangedFiles.png  NowFiles.png	OriginFiles.png  weblaf_complete_1.28.jar
+ChangedFiles.png  OriginFiles.png	    WindowIcon.png
+NowFiles.png	  weblaf_complete_1.28.jar
 
 ./out/production/NewFileCheckTool:
 com				       MainFrame$CheckThread.class
@@ -131,7 +183,7 @@ MANIFEST.MF
 
 ./src:
 DocumentChangedListener.java  MessageWindow.java  TempCreater.java
-EventOutPut.java	      META-INF		  TestClass.java
+EventRW.java		      META-INF		  TestClass.java
 MainFrame.form		      NFCTLauncher.java   UITheme.java
 MainFrame.java		      studio.visualdust
 
@@ -145,7 +197,8 @@ product.filechangechecktool
 Resource
 
 ./src/studio.visualdust/product.filechangechecktool/Resource:
-ChangedFiles.png  NowFiles.png	OriginFiles.png  weblaf_complete_1.28.jar
+ChangedFiles.png   NowFiles.png     weblaf_complete_1.28.jar
+DataResource.java  OriginFiles.png  WindowIcon.png
 ```
 
 Auto commit by VisualDust
